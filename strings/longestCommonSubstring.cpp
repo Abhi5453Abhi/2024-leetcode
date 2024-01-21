@@ -1,5 +1,4 @@
 int lcs(string &str1, string &str2){
-    // Write your code here.
     int n = str1.size();
     int m = str2.size();
 
